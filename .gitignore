@@ -1,0 +1,33 @@
+# Python virtual environments
+myenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled Python files
+__pycache__/
+
+# IDE-specific folders
+.vscode/
+.idea/
+
+# Jupyter Notebook workspace
+your-work/*.ipynb
+
+# Cached data and artifacts
+data/
+output/
+
+# Environment-specific files
+*.env
+*.venv
+*.pyc
+*.pyo
+*.env
+
+# Logs
+*.log
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
