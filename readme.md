@@ -79,19 +79,19 @@ Write and execute your code for the challenge tasks.
 
 ### Task 2: Exploratory Data Analysis (EDA)
 
-1. Dive into the data to gain meaningful insights (e.g: perform statistical hypothesis tests such as chi-square or calculate correlations such as pearson's).
+1. Dive into the data to gain meaningful insights.
 2. Visualize key features and their relationships with the target variable.
 
 ### Task 3: Model Selection and Training
 
-1. Choose a suitable classification algorithm (e.g., logistic regression, random forest).
+1. Choose a suitable classification algorithm.
 2. Split the data into training and testing sets.
 3. Train the selected model using the training data.
 
 ### Task 4: Model Evaluation
 
 1. Evaluate the model's performance on the testing data.
-2. Compute essential evaluation metrics (accuracy, precision, recall, F1-score etc.).
+2. Compute essential evaluation metrics.
 3. Interpret the results and provide insightful observations.
 
 ## Submission Guidelines
@@ -116,7 +116,6 @@ Your performance will be assessed based on:
 
 ## Further Instructions
 
-- Fork this repository and create a new branch with your name.
 - Complete the tasks and commit your changes to your branch.
 - Submit a pull request when you're ready to present your solution.
 
